@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Helen Worku (IBM)
    # Additional Authors:
    # <your GitHub Helukoo>
 
